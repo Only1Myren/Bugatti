@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝐁𝐔𝐆𝐀𝐓𝐓𝐈",
+      "value":"Truth シ (The honored bot)",
       "required":false
 
     } ,
@@ -72,16 +72,16 @@
     "OWNER_NAME":
     {
     
-    "desc": "Your Name",
+    "desc": "Truth シ",
     "required": false,
-    "value": "𝐊𝐢𝐧𝐠 𝐌𝐚𝐫𝐢𝐬𝐞𝐥"
+    "value": "Truth シ"
   },
-    "NUMERO_OWNER":
+    "NUMERO_OWNER":2348115278083
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254740007567"
+    "value": "2348115278083"
   },
     "WARN_COUNT":
   {
